@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image : gauravjain6928/my-note-app:latest
+     image : gauravjain6928/note-todo-app:latest
      ports :
          - "8000:8000"
